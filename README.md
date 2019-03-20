@@ -1,7 +1,7 @@
 # Into Darkness
 
 ## About
-In this game you along with your spaceship together has to invade incoming asteroids from the darkness of the space. Use your mouse to dodge the asteroids by moving upwards and downwards in space. 
+In this game you along with your spaceship together has to invade incoming asteroids from the darkness of the space. Use your mouse to dodge the asteroids by moving upwards and downwards in space.<br><br>
 [Watch the gameplay video here!](https://www.youtube.com/watch?v=H9chWg-RbNc)
 
 ![image](https://user-images.githubusercontent.com/28980632/54675911-82b0aa80-4b25-11e9-90b4-0735db7a3e6f.png)
