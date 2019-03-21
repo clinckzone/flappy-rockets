@@ -1,7 +1,8 @@
 # Into Darkness
 
 ## About
-In this game you along with your spaceship together has to invade incoming asteroids from the darkness of the space. Use your mouse to dodge the asteroids by moving upwards and downwards in space.<br><br>
+It's an asteroid dodging game where you are required to dodge incoming asteroids in order to protect your spaceship from getting damaged. The user interaction involves the use of a mouse to move the spaceship and dodge asteroids.
+<br><br>
 [Watch the gameplay video here!](https://www.youtube.com/watch?v=H9chWg-RbNc)
 
 ![image](https://user-images.githubusercontent.com/28980632/54675911-82b0aa80-4b25-11e9-90b4-0735db7a3e6f.png)
@@ -14,4 +15,4 @@ In this game you along with your spaceship together has to invade incoming aster
 - Tweak the source code as per your wish.
 - Click the play button to run the code.
 ### Program Controls
-Currently, the player uses his mouse to control the spaceship. My end goal with this project is to use a miniature physical spaceship as the controller instead of a mouse so that the interactivity of the game can be made more intuitive. Currently to survive in the game the player has to avoid hitting any incoming asteroids using his mouse.
+Currently, the player uses his mouse to control the spaceship. My end goal with this project is to build a miniature physical spaceship to be used as its controller instead of a mouse to improve upon its interactivity and make it more intuitive. Currently, to survive in the game the player has to avoid hitting any incoming asteroids using his mouse.
