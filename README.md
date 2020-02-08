@@ -1,7 +1,7 @@
 # Flappy Rockets
 
 ## About
-It's an asteroid dodging game where you are required to dodge incoming asteroids in order to protect your spaceship from getting damaged. The user interaction involves the use of a mouse in order to move the spaceship and dodge asteroids.
+Into Darkness is a single-player TUI(Tangible User Interface) based game developed on Processing 3. To gain points you are required to dodge incoming asteroids and protect your spaceship from getting damaged. The user interaction involves the use of a miniature physical spacecraft to be used as a controller.
 <br><br>
 [Watch the gameplay video here!](https://www.youtube.com/watch?v=H9chWg-RbNc)
 
@@ -14,5 +14,3 @@ It's an asteroid dodging game where you are required to dodge incoming asteroids
 - Open it using Processing 3.
 - Tweak the source code as per your wish.
 - Click the play button to run the code.
-### Program Controls
-Currently, the player uses his mouse to control the spaceship. My end goal with this project is to build a miniature physical spaceship to be used as its controller instead of a mouse to improve upon its interactivity and make it more intuitive. Currently, to survive in the game the player has to avoid hitting any incoming asteroids using his mouse.
