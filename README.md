@@ -1,7 +1,7 @@
 # Flappy Rockets
 
 ## About
-Into Darkness is a single-player TUI(Tangible User Interface) based game developed on Processing 3. To gain points you are required to dodge incoming asteroids and protect your spaceship from getting damaged. The user interaction involves the use of a miniature physical spacecraft to be used as a controller.
+Flappy Rockets is a single-player TUI(Tangible User Interface) based game developed on Processing 3. To gain points you are required to dodge incoming asteroids and protect your spaceship from getting damaged. The user interaction involves the use of a miniature physical spacecraft to be used as a controller.
 <br><br>
 [Watch the gameplay video here!](https://www.youtube.com/watch?v=H9chWg-RbNc)
 
