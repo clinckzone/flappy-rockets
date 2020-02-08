@@ -1,4 +1,4 @@
-# Into Darkness
+# Flappy Rockets
 
 ## About
 It's an asteroid dodging game where you are required to dodge incoming asteroids in order to protect your spaceship from getting damaged. The user interaction involves the use of a mouse in order to move the spaceship and dodge asteroids.
